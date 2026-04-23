@@ -7,7 +7,7 @@ This document defines the formal criteria used to evaluate the probability of AI
 These signals provide the strongest evidence of synthetic or "content farm" activity.
 
 * **Release Velocity Burst (🔴 Very High)**: A drastic change in output frequency after 2022. Example: An artist with 2 albums in 6 years suddenly releasing 300+ tracks in 18 months.
-* **Raw Velocity Threshold (🔴 High)**: Publishing more than 50 tracks per year is a critical signal for investigation. 
+* **Raw Velocity Threshold (🔴 High)**: Publishing more than 30 tracks per year is a critical signal for investigation. 
 * **Missing Songwriter Credits (🔴 High)**: Vocal tracks where the performer is absent from composition/songwriter credits in official metadata (e.g., MusicBrainz, Spotify API), as human artists typically claim these royalties.
 * **Lack of Real-World Presence (🔴 High)**: Complete absence of live performance history, video interviews, or verifiable non-AI photography.
 * **Copied Metadata (🔴 High)**: Identical blocks of credits copy-pasted across hundreds of disparate tracks.
@@ -36,6 +36,6 @@ These indicators serve to protect human artists and reduce false positives.
 | Tracks / Year | Status | Action Required |
 | :--- | :--- | :--- |
 | < 15 | 🟢 Normal | No investigation needed |
-| 15 – 50 | 🟡 Suspicious | Secondary criteria check |
-| > 50 | 🔴 High Alert | Full investigation |
+| 15 – 30 | 🟡 Suspicious | Secondary criteria check |
+| > 30 | 🔴 High Alert | Full investigation |
 | Sudden Spike | 🔴 Critical | Immediate priority review |
