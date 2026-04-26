@@ -35,5 +35,11 @@ This is a **living document**. We believe that the best way to keep up with AI e
 * **Refine Thresholds**: Help us calibrate the "release velocity" limits based on real-world data.
 * **Case Studies**: Share anonymized examples of AI content farms to help improve the detection grid.
 
+## 🛠 Related Tools
+
+* **[SONICS](https://github.com/awsaf49/sonics.git)**: The industry-standard music database for benchmarking.
+* **[Deezer ISMIR25 Detector](https://github.com/deezer/ismir25-ai-music-detector.git)**: Deezer's research model for AI detection based on SONICS.
+* **[MIPPIA FST Model](https://github.com/Mippia/FST-AI-Music-Detection.git)**: AI detection framework using Frequency-Spatio-Temporal analysis.
+
 ---
 *Note: This standard is intended for educational and research purposes to help listeners and curators support genuine human creativity.*
