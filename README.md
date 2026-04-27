@@ -14,7 +14,7 @@ We focus on the "intention" and the digital footprint behind the music rather th
 
 The standard is based on several weighted criteria:
 
-* **Release Velocity**: Detection of abnormal publication rhythms, such as sudden spikes to over 50 tracks per year post-2022.
+* **Release Velocity**: Detection of abnormal publication rhythms, such as sudden spikes to over 30 tracks per year post-2022.
 * **Credit Transparency**: Identification of missing songwriter credits or cases where an artist fails to claim intellectual property rights on a large catalog.
 * **Real-World Footprint**: Evaluation of an artist's physical presence, including live performances, interviews, and a verifiable history prior to the AI boom (pre-2020).
 * **Technical & Visual Consistency**: Analysis of abnormal loudness patterns (specifically on YouTube Music) and AI-generated artwork artifacts.
